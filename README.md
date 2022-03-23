@@ -50,3 +50,6 @@ return (
 Необходимо реализовать компонет `Stars` (не забудьте, что отдельная звезда должна быть представлена компонентом `Star`).
 
 Важно: вам нужно реализовать только отображение звездочек (карточку фильма не нужно).
+
+---
+[![Build status](https://ci.appveyor.com/api/projects/status/x2sr30398kln7ubh/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-props-films/branch/main)
